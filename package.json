@@ -17,7 +17,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/HelloJack0/ant-design-mobile-rn.git"
+    "url": "http://github.com/HelloJack0/ant-design-mobile-rn.git"
   },
   "bugs": {
     "url": "http://github.com/ant-design/ant-design-mobile-rn/issues"
