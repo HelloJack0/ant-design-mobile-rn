@@ -1,5 +1,5 @@
 {
-  "name": "@ant-design/react-native",
+  "name": "ant-design-mobile-rn",
   "version": "3.1.32",
   "description": "基于蚂蚁金服移动设计规范的 React Native 组件库",
   "keywords": [
